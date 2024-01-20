@@ -23,6 +23,9 @@
 | ------------- | ------------- |
 
 
+##  Profile View Count
+![Madhurya Dutta](https://hitometer.databytedigital.com/track/202401201705774693)
+
 <!--
 **madhuryadutta/madhuryadutta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
